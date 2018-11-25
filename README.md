@@ -13,3 +13,20 @@ Deadline: December 14th (Friday)
 - 03.12.2018 – 09.12.2018: Complete project
 
 - 10.12.2018 – 13.12.2018: Submit project
+
+## References
+-	https://www.aspca.org
+
+-	MADRA Website - http://www.madra.ie/
+
+-	ISPCA Website - https://www.ispca.ie
+
+-	Department of Environment, Community and Local Government Website – 
+
+-	https://www.thejournal.ie
+
+-	https://www.irishtimes.com
+
+-	Dog control report 2017
+
+-	https://drcd.gov.ie
