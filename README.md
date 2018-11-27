@@ -103,3 +103,5 @@ I will try to complete the same type of fabrication for each of the 5 breeds of 
 
 #### To do tomorrow 28/11/2018: 
 Now that I have a fair idea what real-world phenomenon I would like to simulate data for, I need to become more familiar with the numpy.random package which I will use to model and synthesise the data using Python.
+
+![Tyson](Tyson/tyson.png)
