@@ -106,3 +106,4 @@ Now that I have a fair idea what real-world phenomenon I would like to simulate 
 
 ![Tyson](Tyson/tyson.png)
 ![Screenshot](Tyson.png)
+![Screenshot](Tyson.jpg)
