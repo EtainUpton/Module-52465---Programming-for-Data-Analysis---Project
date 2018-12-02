@@ -104,6 +104,42 @@ I will try to complete the same type of fabrication for each of the 5 breeds of 
 #### To do tomorrow 28/11/2018: 
 Now that I have a fair idea what real-world phenomenon I would like to simulate data for, I need to become more familiar with the numpy.random package which I will use to model and synthesise the data using Python.
 
-![Tyson](Tyson/tyson.png)
-![Screenshot](Tyson.png)
+
 ![Screenshot](Tyson.jpg)
+
+02/12/2018
+
+At this point I have decided what I would like my data set to represent.
+
+To do: Model & synthesise the data using Python – numpy.random package.
+
+There should be at least one-hundred data points across four different variables.
+
+Create a synthesised data set.
+
+Devise an algorithm (or method) to generate my data set. 
+
+Detail this work in my notebook.
+
+Add some code to generate a data set with those properties.
+
+Review the numpy.random package videos on Moodle.
+
+The the numpy.random package is used for generating random data in Python, which is exactly what I want to do.
+
+I reviewed the following videos;
+1.	Introduction to numpy.random
+2.	Introduction to numpy. I also checked out http://www.numpy.org/.
+3.	Setting up the numpy.random repo
+4.	
+
+Reference;
+http://www.numpy.org/
+https://jupyter.readthedocs.io/en/latest/running.html#running
+
+
+I initially thought realised that I would need to compile my synthesised data somewhere. I then realised that numpy.random will do this for me – it will generate arrays of numbers for me, so I don’t need to compose them myself.
+
+To launch jupyter notebook; CMD > Anaconda Prompt > jupyter notebook
+
+
