@@ -142,4 +142,19 @@ I initially thought realised that I would need to compile my synthesised data so
 
 To launch jupyter notebook; CMD > Anaconda Prompt > jupyter notebook
 
+03.12.2018
+I reviewed the following videos;
+4.	Setting up the numpy.random repo
+5.	Numpy.random docs
+6.	Rand function video
+7.	Distributions video
+8.	
 
+Reference:
+Docs.scipy.org/doc/numpy
+
+np.random.rand(3,2) 
+
+To generate the random numbers for my dataset;
+
+![Screenshot](ToGenerateRandomNumbersInJupyterNotebook.png)
