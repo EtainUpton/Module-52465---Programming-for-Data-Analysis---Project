@@ -157,4 +157,4 @@ np.random.rand(3,2)
 
 To generate the random numbers for my dataset;
 
-![Screenshot](ToGenerateRandomNumbersInJupyterNotebook.png)
+![Screenshot](ToGenerateRandomNumbersInJupyterNotebook.jpg)
