@@ -159,3 +159,46 @@ To generate the random numbers for my dataset;
 
 ![Screenshot](ToGenerateRandomNumbersInJupyterNotebook.JPG)
 
+I received the results of my assignment which I had completed for this module in November by email from Dr Ian McLoughlin on 04th December. I reviewed the constructive feedback carefully and will try to apply it to this project.
+
+### Ian’s feedback;
+
+#### -	Research:
+
+Your submission was of a reasonable standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- Make sure to inform yourself of other people's approaches to problems like the one set out in the assignment brief. In your submission, you might summarise your findings and then make an informed decision as to your approach to the problem. You can provide evidence that you carried out this research by documenting it within your submission.
+
+- Try to break the overall assignment into smaller components. Research each of these components, and then consider how they might fit together to provide an overall solution.
+
+#### -	Development
+
+Your submission was of a reasonable standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- Make sure you demonstrate your competence in programming, including an ability to search, read and understand documentation.
+
+- You code must work and files should be named appropriately with correct filename extensions.
+
+#### -	Consistency
+
+Your submission was of a reasonable standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- Make sure you manage your own learning and development, including time management and organisational skills, and make this evident in your submissions.
+
+- You should reflect on previous projects you have completed and have the foresight to see common potential issues coming down the tracks during your project.
+
+#### -	Documentation
+
+Your submission was of a reasonable standard in this category.
+
+You might consider further developing the following in future submissions:
+
+- Your documentation should provide descriptions and instructions for understanding your submission.
+
+- All code should be commented. Usually each statement requires a comment and a preamble is required at the beginning of every file.
