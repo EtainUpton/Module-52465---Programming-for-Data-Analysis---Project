@@ -219,6 +219,8 @@ I wondered – does this actually generate random numbers, or does it just shuff
 Perhaps I need to explore further.
 
 I tried to use the same code but replaced the figure 10 with 100;
+
+![Screenshot](JupyterNotebookErrorMessage.JPG)
  
 The above error was displayed.
 
