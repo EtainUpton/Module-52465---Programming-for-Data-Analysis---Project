@@ -210,7 +210,9 @@ numpy.random.shuffle can be used to modify a sequence in-place by shuffling its 
 
 This function only shuffles the array along the first axis of a multi-dimensional array. The order of sub-arrays is changed but their contents remains the same (Reference: https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.shuffle.html#numpy.random.shuffle)
 
-I tested this in my Jupyter notebook.
+I tested this in my Jupyter notebook;
+
+![Screenshot](ToGenerateRandomNumbersInJupyterNotebook.JPG)
  
 I wondered – does this actually generate random numbers, or does it just shuffle numbers between 1 and 10 and display them in random order?
 
