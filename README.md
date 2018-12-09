@@ -202,3 +202,24 @@ You might consider further developing the following in future submissions:
 - Your documentation should provide descriptions and instructions for understanding your submission.
 
 - All code should be commented. Usually each statement requires a comment and a preamble is required at the beginning of every file.
+
+
+I was unsure which simple random data code to use for this purpose, so I researched some different options from https://docs.scipy.org/doc/numpy-1.15.1/reference/routines.random.html and decided that for my purposes and the dataset I wish to create, the following would be the most suitable; numpy.random.shuffle
+
+numpy.random.shuffle can be used to modify a sequence in-place by shuffling its contents.
+
+This function only shuffles the array along the first axis of a multi-dimensional array. The order of sub-arrays is changed but their contents remains the same (Reference: https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.shuffle.html#numpy.random.shuffle)
+
+I tested this in my Jupyter notebook.
+ 
+I wondered – does this actually generate random numbers, or does it just shuffle numbers between 1 and 10 and display them in random order?
+
+Perhaps I need to explore further.
+
+I tried to use the same code but replaced the figure 10 with 100;
+ 
+The above error was displayed.
+
+Now that I have decided to use 
+
+To do: Work out what types of figures I need in terms of the subject I have closen and the variables.
