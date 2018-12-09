@@ -220,7 +220,7 @@ Perhaps I need to explore further.
 
 I tried to use the same code but replaced the figure 10 with 100;
 
-![Screenshot](JupyterNotebookErrorMessage.JPG)
+![Screenshot](JupyterNotebookErrorMessage.jpg)
  
 The above error was displayed.
 
