@@ -22,7 +22,7 @@ I wasn’t certain what type of dog I wanted to adopt. I knew I would prefer a p
 
 We visited MADRA several times, and walked lots of their dogs who ranged in age from 1 year to approximately 10 years old, but they had no puppies on any of the occasions we visited the shelter.
 
-![Screenshot](MadraLogo.jpg)
+![Screenshot](MadraLogo.JPG)
 
 We continued to contact the kind people who work at MADRA regularly so that we would be updated when any puppies arrived at the shelter, and eventually we were informed that two pitbull-cross puppies had arrived in need of a good home. We knew we could not adopt two puppies, but the staff at MADRA advised us that it was not a requirement that the puppies be rehomed together, as was the case for some of their other candidates.
 
