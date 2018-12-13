@@ -45,6 +45,6 @@ This was interesting to me – it seems that the breed of the dog (in the case o
 
 I downloaded and reviewed the latest dog control report (https://drcd.gov.ie/dog-control/view-our-dog-control-statistics/). I initially thought I might use this as a guide and simulate figures based on the actual figures from this report for the purpose of this project, but as my project evolved I didn’t end up going that route.
 
-#### My repository contains;
+#### My Jupyter Notebook contained within this repository contains;
 
 A dataset which simulates the real-world phenomenon of different variables which impact dog adoption rates.
